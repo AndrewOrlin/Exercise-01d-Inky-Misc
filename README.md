@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+Andrew Orlin
 
-# Your Github username
+AndrewOrlin
